@@ -1,0 +1,2 @@
+2026-03-13 10:01:33.751 | INFO     | test_allure:test_simple_types:14 - Старт теста с данными: True
+2026-03-13 10:01:33.751 | SUCCESS  | test_allure:test_simple_types:23 - Тест пройден для True
