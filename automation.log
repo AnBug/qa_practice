@@ -1,0 +1,12 @@
+2026-03-13 11:56:32.298 | INFO     | test_data:test_api_status_logic:10 - СТАРТ: Проверка обработки статус-кода 200
+2026-03-13 11:56:32.298 | SUCCESS  | test_data:test_api_status_logic:16 - ЗАВЕРШЕНО: Код 200 обработан корректно
+2026-03-13 11:56:32.299 | INFO     | test_data:test_api_status_logic:10 - СТАРТ: Проверка обработки статус-кода 404
+2026-03-13 11:56:32.299 | SUCCESS  | test_data:test_api_status_logic:16 - ЗАВЕРШЕНО: Код 404 обработан корректно
+2026-03-13 11:56:32.299 | INFO     | test_data:test_api_status_logic:10 - СТАРТ: Проверка обработки статус-кода 500
+2026-03-13 11:56:32.299 | ERROR    | test_data:test_api_status_logic:13 - ОБНАРУЖЕНА ОШИБКА: Сервер вернул 500
+2026-03-13 12:00:45.361 | INFO     | test_data:test_api_status_logic:10 - СТАРТ: Проверка обработки статус-кода 200
+2026-03-13 12:00:45.361 | SUCCESS  | test_data:test_api_status_logic:16 - ЗАВЕРШЕНО: Код 200 обработан корректно
+2026-03-13 12:00:45.362 | INFO     | test_data:test_api_status_logic:10 - СТАРТ: Проверка обработки статус-кода 404
+2026-03-13 12:00:45.362 | SUCCESS  | test_data:test_api_status_logic:16 - ЗАВЕРШЕНО: Код 404 обработан корректно
+2026-03-13 12:00:45.362 | INFO     | test_data:test_api_status_logic:10 - СТАРТ: Проверка обработки статус-кода 500
+2026-03-13 12:00:45.362 | ERROR    | test_data:test_api_status_logic:13 - ОБНАРУЖЕНА ОШИБКА: Сервер вернул 500
